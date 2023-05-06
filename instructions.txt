@@ -1,2 +1,0 @@
-zip -F data.zip --out combined.zip
-unzip -P <password> combined.zip
