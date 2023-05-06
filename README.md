@@ -14,7 +14,7 @@ main difference between these two approaches is flexibility
 and performance overhead. When considering larger blocks,
 this will then induce better performance due to the reduced
 number of comparisons. On the other hand, variable size
-chunking considers different-sized chunks, which will inherently identify more chunks to be deduplicated but will have
+chunking considers different-sized chunks, which will inherently identify more chunks to be deduplicated but will have
 a much larger performance overhead.
 
 This project cannot be fully replicated due to the large amount of data we used and couldn't upload. We have uploaded what we could.
