@@ -25,3 +25,5 @@ Copy Java Memory Dumps into data/memorydumps/initial/Java and delete the temp.tx
 Jupyter Notebook
 
 Run Block by Block.
+
+## Thanks for a Great Semester
