@@ -39,3 +39,5 @@ Copy Java Memory Dumps into data/memorydumps/initial/Java and delete the temp.tx
 ## Running
 
 Jupyter Notebook
+
+Run Block by Block. You may need to edit number of folders being evaluated if they dont exist.
